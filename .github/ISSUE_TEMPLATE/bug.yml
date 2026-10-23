@@ -1,0 +1,29 @@
+name: Bug report
+description: Report a problem with Just Hide.
+title: "[Bug]: "
+body:
+  - type: input
+    id: version
+    attributes:
+      label: Just Hide version
+    validations:
+      required: true
+  - type: input
+    id: system
+    attributes:
+      label: macOS version and Mac model
+      placeholder: "macOS version, Apple Silicon or Intel, display setup"
+    validations:
+      required: true
+  - type: textarea
+    id: behavior
+    attributes:
+      label: What happened?
+      description: Include steps to reproduce, expected behavior, and actual behavior.
+    validations:
+      required: true
+  - type: textarea
+    id: screenshots
+    attributes:
+      label: Screenshots or additional details
+      description: Remove personal information before sharing.
