@@ -56,4 +56,4 @@ curl -fsSL https://raw.githubusercontent.com/idkatanica/just-hide/main/install.s
 
 ## License
 
-Free to use under the [Just Hide Freeware License](APP-LICENSE.md). The installer is [MIT](LICENSE).
+Free to use under the [Just Hide Freeware License](LICENSE).
