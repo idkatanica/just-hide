@@ -21,6 +21,8 @@
   </picture>
 </p>
 
+https://github.com/user-attachments/assets/342768f3-6ff6-4987-bcc6-a65c19f2b9ae
+
 ## Install
 
 ```sh
